@@ -1,5 +1,6 @@
-/* Ques Description : */
-/* (1.1) Write a program to read two numbers and compare the numbers using function call by address.*/
+/*
+Ques Description : (1.1) Write a program to read two numbers and compare the numbers using function call by address.
+*/
 
 #include <stdio.h>
 void comp(int *x, int *y);
