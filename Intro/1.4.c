@@ -1,6 +1,6 @@
-/* Ques Description : */
-/*1.4 Write a menu driven program to create a structure to represent complex number and perform the following operation using function :
-
+/*
+Ques Description :
+(1.4) Write a menu driven program to create a structure to represent complex number and perform the following operation using function :
 1. addition of two complex number  (call by value)
 2. multiplication of two complex number (call by address)
 */
