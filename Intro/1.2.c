@@ -1,6 +1,6 @@
-/* Ques Description : */
-/*1.2 Write a program to create an array of n elements using dynamic memory allocation.
-Calculate sum of all the prime elements of the array using function and de-allocate the memory of the array after its use.
+/*
+Ques Description : (1.2) Write a program to create an array of n elements using dynamic memory allocation. Calculate
+sum of all the prime elements of the array using function and de-allocate the memory of the array after its use.
 */
 
 #include <stdio.h>
