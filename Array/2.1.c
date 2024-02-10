@@ -1,5 +1,5 @@
 /*
-Ques Description : (2.1
+Ques Description : (2.1)
 WAP to create a 1-D array of n elements and perform the following menu based operations using function.
 a. insert a given element at specific position.
 b. delete an element from a specific position of the array.
