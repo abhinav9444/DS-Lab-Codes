@@ -10,9 +10,9 @@ d. traversal of the array
 #include <stdio.h>
 #include <stdlib.h>
 int *create(int n);                 // Function to Create Array of Size n.
-void create_new(int *arr, int *n);   // Function to realloacte array of new size
+void create_new(int *arr, int *n);  // Function to realloacte array of new size
 void insert(int *ptr);              // Function to insert elements in an array.
-void delete(int *ptr);       // Function to Delete an Element.
+void delete(int *ptr);              // Function to Delete an Element.
 void linearsearch(int *ptr, int n); // Function to find element by linear search.
 void traverse(int arr[], int n);    // Function to traverse through the array.
 
