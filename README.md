@@ -25,7 +25,7 @@ Contributions and suggestions for improvement are welcome! If you have alternati
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-If you have any questions, feedback, or suggestions for improvement, feel free to reach out via email at [abhinavkrsingh9444@gmail.com](mailto:your_email@example.com). Alternatively, you can connect with me on different social platforms, which are listed in my profile.
+If you have any questions, feedback, or suggestions for improvement, feel free to reach out via email. Alternatively, you can connect with me on different social platforms, which are listed in my profile.
 
 <div align="center">
   <p>Happy coding! 🌟</p>
